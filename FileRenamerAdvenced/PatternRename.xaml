@@ -1,0 +1,21 @@
+﻿<Window x:Class="FileRenamerAdvanced.PatternRename"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FileRenamerAdvanced"
+        mc:Ignorable="d"
+        Title="Patter Rename" Height="437.439" Width="606.796" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Grid>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="432,361,0,-19" Height="30" BorderBrush="#FF6E075C" Background="#FF850C70" Foreground="White" Click="btnSubmit_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="512,361,0,-19" Height="30" BorderBrush="#FF6E075C" Background="#FF850C70" Foreground="White" Click="btnCancel_Click"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" Height="244" Margin="11,3,0,0" VerticalAlignment="Top" Width="575"/>
+        <TextBox x:Name="txtPattern" HorizontalAlignment="Left" Height="59" Margin="12,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="575" BorderBrush="#FF850C70" KeyDown="txtPattern_KeyDown"/>
+        <CheckBox x:Name="checkExtension" Content="Use default file extension if the extension doesn't exist" IsChecked="True" HorizontalAlignment="Left" Margin="11,369,0,-12" VerticalAlignment="Top"/>
+        <Label x:Name="lblStartIndex" Content="Start Index :" HorizontalAlignment="Left" Margin="11,318,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtStartIndex" HorizontalAlignment="Left" Height="20" Margin="85,322,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="37" FontWeight="Bold" TextAlignment="Center" TextChanged="txtStartIndex_TextChanged"/>
+
+    </Grid>
+</Window>
+
+   

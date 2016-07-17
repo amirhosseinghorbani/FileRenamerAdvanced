@@ -1,0 +1,16 @@
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\bin\Debug\FileRenamerAdvenced.exe.config
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\bin\Debug\FileRenamerAdvenced.exe
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\bin\Debug\FileRenamerAdvenced.pdb
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\App.g.cs
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced_MarkupCompile.cache
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced_MarkupCompile.lref
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced.g.resources
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced.Properties.Resources.resources
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced.csproj.GenerateResource.Cache
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced.exe
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced.pdb
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\MainWindow.g.cs
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\MainWindow.baml
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\FileRenamerAdvenced.csprojResolveAssemblyReference.cache
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Home\Projects\C#\FileRenamerAdvenced\FileRenamerAdvenced\bin\Debug\FileRenamerAdvanced.exe.config
